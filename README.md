@@ -1,2 +1,2 @@
 # Pitt-Sales-Efficiency-Model-Basic
-Sample Project
+Samples, temporary project for March 3, 2023
